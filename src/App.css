@@ -1,0 +1,14 @@
+.header{
+  height: 100px;
+  background-color: aqua;
+}
+
+.footer{
+  height: 200px;
+  background-color: greenyellow;
+}
+
+.container {
+  height: calc(100vh - 300px);
+  background-color: azure;
+}
